@@ -45,6 +45,16 @@ Comparar el rendimiento de los algoritmos en función de:
 - E/S de archivos estándar
 - Medición de tiempo con `chrono`
 
+## Instrucciones de Ejecución
+
+Para compilar y ejecutar el archivo principal `main.cpp` ubicado en la carpeta `/src`, sigue estos pasos desde la terminal:
+
+1. **Compilar el programa:**
+
+```bash
+g++ ./src/main.cpp
+```
+
 ## Autor
 
 Elaborado por **Miguel Pérez**
